@@ -6,10 +6,11 @@
 [![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php&link=https://github.com/karoldiasb)](https://github.com/karoldiasb) 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/karoldiasb)](https://github.com/karoldiasb)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&link=https://github.com/karoldiasb)](https://github.com/karoldiasb) 
+[![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat&logo=laravel&link=https://github.com/karoldiasb)](https://github.com/karoldiasb) 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/karoldiasb)](https://github.com/karoldiasb) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/karoldiasb)](https://github.com/karoldiasb) 
 [![SQLServer](https://img.shields.io/badge/-SQLServer-1572B6?style=flat&logo=sqlserver&link=https://github.com/karoldiasb)](https://github.com/karoldiasb) 
-[![MySQL](https://img.shields.io/badge/-mySQL-1572B6?style=flat&logo=mysql&link=https://github.com/karoldiasb)](https://github.com/karoldiasb) 
+[![MySQL](https://img.shields.io/badge/-mySQL-white?style=flat&logo=mysql&link=https://github.com/karoldiasb)](https://github.com/karoldiasb) 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/karoldiasb)](https://github.com/karoldiasb)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/karoldiasb)](https://github.com/karoldiasb)
 
