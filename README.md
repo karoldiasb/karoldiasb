@@ -1,6 +1,6 @@
 ### Olá 👋 me chamo Karoline 
 
-### Desenvolvedora Full Stack
+### Desenvolvedora Full Stack | PHP | JS
 
 ### 👨‍💻 Linguagens e Tecnologias
 [![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php&link=https://github.com/karoldiasb)](https://github.com/karoldiasb) 
