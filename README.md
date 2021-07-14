@@ -14,6 +14,10 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/karoldiasb)](https://github.com/karoldiasb)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/karoldiasb)](https://github.com/karoldiasb)
 
+### 👨‍💻 Estudando
+[![VueJS](https://img.shields.io/badge/-VueJS-green&link=https://github.com/karoldiasb)](https://github.com/karoldiasb)
+[![Flutter](https://img.shields.io/badge/-Flutter-1572B6?style=flat&logo=flutter&link=https://github.com/karoldiasb)](https://github.com/karoldiasb)
+
 <!--
 **karoldiasb/karoldiasb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
