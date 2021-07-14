@@ -15,7 +15,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/karoldiasb)](https://github.com/karoldiasb)
 
 ### 👨‍💻 Estudando
-[![VueJS](https://img.shields.io/badge/-VueJS-green&link=https://github.com/karoldiasb)](https://github.com/karoldiasb)
+[![VueJS](https://img.shields.io/badge/-VueJs-green?style=flat&logo=vue&link=https://github.com/karoldiasb)](https://github.com/karoldiasb)
 [![Flutter](https://img.shields.io/badge/-Flutter-1572B6?style=flat&logo=flutter&link=https://github.com/karoldiasb)](https://github.com/karoldiasb)
 
 <!--
