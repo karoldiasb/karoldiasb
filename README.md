@@ -3,8 +3,8 @@
 ### Desenvolvedora Full Stack | PHP | JS
 
 ### 👨‍💻 Linguagens e Tecnologias
-[![PHP](https://img.shields.io/badge/-PHP-black?style=flat&logo=php&link=https://github.com/karoldiasb)](https://github.com/karoldiasb) 
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/karoldiasb)](https://github.com/karoldiasb)
+[![PHP](https://img.shields.io/badge/-PHP-white?style=flat&logo=php&link=https://github.com/karoldiasb)](https://github.com/karoldiasb) 
+[![JavaScript](https://img.shields.io/badge/-JavaScript-white?style=flat&logo=javascript&link=https://github.com/karoldiasb)](https://github.com/karoldiasb)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/karoldiasb)](https://github.com/karoldiasb) 
 [![Laravel](https://img.shields.io/badge/-Laravel-white?style=flat&logo=laravel&link=https://github.com/karoldiasb)](https://github.com/karoldiasb) 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/karoldiasb)](https://github.com/karoldiasb) 
