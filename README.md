@@ -12,7 +12,7 @@
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/karoldiasb)](https://github.com/karoldiasb) 
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/karoldiasb)](https://github.com/karoldiasb) 
 
-[![SQLServer](https://img.shields.io/badge/-SQLServer-1572B6?style=flat&logo=sqlserver&link=https://github.com/karoldiasb)](https://github.com/karoldiasb) 
+[![SQLServer](https://img.shields.io/badge/-SQLServer-1572B6?style=flat&logo=microsoft-sql-server&link=https://github.com/karoldiasb)](https://github.com/karoldiasb) 
 [![MySQL](https://img.shields.io/badge/-mySQL-white?style=flat&logo=mysql&link=https://github.com/karoldiasb)](https://github.com/karoldiasb) 
 
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/karoldiasb)](https://github.com/karoldiasb)
