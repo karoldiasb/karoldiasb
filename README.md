@@ -16,15 +16,15 @@
 [![flutter](https://img.shields.io/badge/-flutter-blue?style=flat&logo=flutter&link=https://github.com/karoldiasb)](https://github.com/karoldiasb)
 [![one signal](https://img.shields.io/badge/-onesignal-orange?style=flat&logo=onesignal&logo=react&link=https://github.com/karoldiasb)](https://github.com/karoldiasb)
 
-[![docker](https://img.shields.io/badge/-Docker-white?style=flat&logo=docker&link=https://github.com/karoldiasb)](https://github.com/karoldiasb)
-[![docker composer](https://img.shields.io/badge/-DockerCompose-white?style=flat&logo=docker&link=https://github.com/karoldiasb)](https://github.com/karoldiasb)
+[![docker](https://img.shields.io/badge/-docker-white?style=flat&logo=docker&link=https://github.com/karoldiasb)](https://github.com/karoldiasb)
+[![docker composer](https://img.shields.io/badge/-dockercompose-white?style=flat&logo=docker&link=https://github.com/karoldiasb)](https://github.com/karoldiasb)
 
 [![CI/CD](https://img.shields.io/badge/-CICD-white?style=flat&link=https://github.com/karoldiasb)](https://github.com/karoldiasb)
 [![azure pipelines](https://img.shields.io/badge/-azurepipelines-blue?style=flat&logo=azure-pipelines&link=https://github.com/karoldiasb)](https://github.com/karoldiasb)
 [![azure devops](https://img.shields.io/badge/-azuredevops-blue?style=flat&logo=azuredevops&link=https://github.com/karoldiasb)](https://github.com/karoldiasb)
 [![portal azure](https://img.shields.io/badge/-portalazure-blue?style=flat&logo=azureportal&logo=azuredevops&link=https://github.com/karoldiasb)](https://github.com/karoldiasb)
 
-[![firebase](https://img.shields.io/badge/-firebase-white?style=flat&logo=firebase&logo=azure-pipelines&link=https://github.com/karoldiasb)](https://github.com/karoldiasb)
+[![firebase](https://img.shields.io/badge/-firebase-white?style=flat&logo=firebase&logo=firebase&link=https://github.com/karoldiasb)](https://github.com/karoldiasb)
 
 [![html5](https://img.shields.io/badge/-html5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/karoldiasb)](https://github.com/karoldiasb) 
 [![css3](https://img.shields.io/badge/-css3-1572B6?style=flat&logo=css3&link=https://github.com/karoldiasb)](https://github.com/karoldiasb) 
