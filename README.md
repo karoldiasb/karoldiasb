@@ -11,6 +11,7 @@
 [![react js](https://img.shields.io/badge/-reactjs-white?style=flat&logo=react&link=https://github.com/karoldiasb)](https://github.com/karoldiasb)
 [![redux](https://img.shields.io/badge/-redux-purple?style=flat&logo=redux&link=https://github.com/karoldiasb)](https://github.com/karoldiasb)
 [![context api](https://img.shields.io/badge/-contextapi-white?style=flat&logo=react&link=https://github.com/karoldiasb)](https://github.com/karoldiasb)
+[![webpack](https://img.shields.io/badge/-webpack-white?style=flat&logo=webpack&link=https://github.com/karoldiasb)](https://github.com/karoldiasb)
 
 [![react native](https://img.shields.io/badge/-reactnative-white?style=flat&logo=react&link=https://github.com/karoldiasb)](https://github.com/karoldiasb)
 [![flutter](https://img.shields.io/badge/-flutter-blue?style=flat&logo=flutter&link=https://github.com/karoldiasb)](https://github.com/karoldiasb)
